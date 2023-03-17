@@ -1,0 +1,147 @@
+@media(max-width:575px) {
+    .top-part li {
+        margin-left: 0px;
+    }
+
+    .owl-nav .owl-next {
+        display: none;
+    }
+
+    .top-part ul {
+        justify-content: space-between;
+        padding: 0;
+        margin: 0;
+    }
+
+    .header-icon i {
+        font-size: 10px;
+    }
+
+    .header-cont h6 {
+        font-size: 8px;
+    }
+
+    .header-cont p {
+        font-size: 8px;
+    }
+
+    .header-icon {
+        margin-right: 5px;
+    }
+
+    .top-part img {
+        width: 35%;
+        margin-bottom: 10px;
+    }
+
+    header {
+        text-align: center;
+    }
+
+    .navbar-toggler {
+        box-shadow: none;
+        color: #fff;
+        border: none;
+        font-size: 24px;
+    }
+    .navbar-toggler:focus {
+        box-shadow:none;
+    }
+    .nav-link {
+        display: inline-block;
+    }
+    .nav-link:hover {
+        color: #fff;
+        padding: 10px;
+    }
+    .appointment {
+        display: inline-block;
+    }
+    .banner h3 {
+        font-size: 20px;
+    }
+    .banner h1{
+        font-size: 30px;
+    }
+    .banner img {
+        position: absolute;
+        bottom: 0;
+        width: 70% ! important;
+        right: 0;
+    }
+    .agency-part {
+        padding: 50px 0;
+        position: relative;
+        text-align: center;
+    }
+    .ag-img {
+        display: none;
+    }
+    .doctor {
+    }
+    .all-part-heading {
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .all-part-heading p {
+        /* font-size: 12px; */
+    }
+    .all-part-heading h2 {
+        /* font-size: 22px; */
+    }
+    .doctors-part {
+        padding: 45px;
+    }
+    .services {
+        padding: 50px;
+    }
+    .service {
+    }
+    .pricing-tbl {
+        padding: 50px;
+    }
+    .plan {
+    margin-bottom: 20px;
+    }
+    .client-logo img {
+    }
+    .dntl-icon {
+        margin-bottom: 20px;
+    }
+    .top-footer{
+        padding: 50px;
+    }
+    .dntl-icon img {
+        width: 40%;
+    }
+    .dental-item p {
+        font-size: 12px;
+    }
+    .ftr-icon {
+        font-size: 23px;
+        margin-right: 13px;
+        color: beige;
+    }
+    .contact {
+        justify-content: center;
+    }
+    .follow-part {
+        display: flex;
+        justify-content: center;
+    }
+    .sign-up-btn {
+        color: #fff;
+        padding: 5px 13px;
+        transition: .5s all ease-in-out;
+    }
+    .input-part input{
+        padding: 2px;
+    }
+    .icon-list ul li i {
+        font-size: 15px;
+        padding: 4px;
+    }
+    .newslettr-part h2 {
+        margin-bottom: 10px;
+    }
+}
